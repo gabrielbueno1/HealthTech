@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(99, 99, 99);
+}
+.div1 {
+
+    background-color: rgb(42, 140, 165);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+}
+.container {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: rgb(42, 140, 165);
+    font-size: 25px;
+}
+
+.sobre {
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 0.5cm;
+
+}
